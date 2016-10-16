@@ -1,4 +1,4 @@
-# node-apps
+# Anode by Amit Upadhyay
 
 ** NodeJS Event loop 
 
@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=Jsmeh7q9Qv4 --- Youtube video --ok
 https://blog.risingstack.com/node-js-production-checklist/ 
 
 https://www.joyent.com/developers/node
+
+
+-Amit Upadhyay
