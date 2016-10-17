@@ -1,6 +1,6 @@
 # Anode by Amit Upadhyay
 
-** NodeJS Event loop ** 
+** NodeJS Event loop **
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ --- brilliant 
 
@@ -28,5 +28,3 @@ https://blog.risingstack.com/node-js-production-checklist/
 
 https://www.joyent.com/developers/node
 
-
--Amit Upadhyay
